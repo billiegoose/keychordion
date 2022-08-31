@@ -1,0 +1,20 @@
+{
+  "name": "@wmhilton/keychordion",
+  "version": "0.0.0",
+  "description": "",
+  "type": "module",
+  "engines": {
+    "node": ">=15.14.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "William Hilton <wmhilton@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jzz": "^1.5.2",
+    "jzz-synth-fluid": "^1.0.0"
+  }
+}
