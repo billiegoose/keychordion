@@ -8,7 +8,8 @@
   },
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "William Hilton <wmhilton@gmail.com>",
@@ -16,5 +17,8 @@
   "dependencies": {
     "jzz": "^1.5.2",
     "jzz-synth-fluid": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
   }
 }
