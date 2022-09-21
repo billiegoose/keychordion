@@ -15,6 +15,7 @@
   "author": "William Hilton <wmhilton@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@lachenmayer/midi-messages": "^1.0.1",
     "jzz": "^1.5.2",
     "jzz-synth-fluid": "^1.0.0"
   },
